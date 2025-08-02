@@ -21,6 +21,7 @@
 | ZaharBorisenko | 6 | 6 |
 | ZakirAvrora | 6 | 6 |
 | arslanoktay | 6 | 6 |
+| aseifi880 | 6 | 6 |
 | ashwinipatankar | 6 | 6 |
 | bmeverett | 6 | 6 |
 | deloz | 6 | 6 |
@@ -42,6 +43,7 @@
 | naeswer | 6 | 6 |
 | odelbos | 6 | 6 |
 | perekoshik | 6 | 6 |
+| potapkin-pavel | 6 | 6 |
 | puffyguy | 6 | 6 |
 | quangtran666 | 6 | 6 |
 | s20055232 | 6 | 6 |
